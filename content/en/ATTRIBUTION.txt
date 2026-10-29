@@ -1,0 +1,16 @@
+EnglishTrainer cloud content - English pack (a2 / b1 / c1)
+
+Sources and licenses:
+1) Reading texts: OneStopEnglish corpus (189 news texts x 3 reading levels).
+   Source: https://github.com/nishkalavallabhi/OneStopEnglishCorpus
+   License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+   Citation: Vajjala, S., & Lucic, I. (2018). OneStopEnglish corpus:
+   A new corpus for automatic readability assessment and text simplification.
+   (Derived from The Guardian articles.)
+
+2) Word definitions: WordSet dictionary (CC BY-SA 4.0)
+   Source: https://github.com/wordset/wordset-dictionary
+   with WordNet 3.0 (Princeton University) as fallback for missing words.
+
+This pack is distributed under CC BY-SA 4.0. Attribution must be kept
+when redistributing the derived files.

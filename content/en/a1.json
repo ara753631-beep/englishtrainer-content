@@ -1,1 +1,264 @@
-
+{
+ "lang": "en",
+ "level": "a1",
+ "items": [
+  {
+   "id": "en_a1_01",
+   "title": "My Morning Routine",
+   "summary": "A quiet start to every day",
+   "category": "daily_life",
+   "body": "I wake up at seven o'clock every day. First, I drink a glass of water and open the window. Then I take a shower and put on my clothes. For breakfast, I usually eat bread with cheese and drink tea. At half past eight, I leave the house and walk to the bus stop. My mornings are quiet, and I like them very much.",
+   "words": [
+    {
+     "w": "wake up",
+     "tr": "يستيقظ"
+    },
+    {
+     "w": "glass",
+     "tr": "كأس"
+    },
+    {
+     "w": "shower",
+     "tr": "دُش / استحمام"
+    },
+    {
+     "w": "usually",
+     "tr": "عادةً"
+    },
+    {
+     "w": "leave",
+     "tr": "يغادر"
+    },
+    {
+     "w": "quiet",
+     "tr": "هادئ"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What time does he wake up?",
+     "a": "At seven o'clock"
+    },
+    {
+     "q": "What does he eat for breakfast?",
+     "a": "Bread with cheese"
+    }
+   ]
+  },
+  {
+   "id": "en_a1_02",
+   "title": "At the Café",
+   "summary": "The best part of Sara's day",
+   "category": "food",
+   "body": "Sara goes to a small café near her office every morning. She always orders a cup of coffee with milk and a piece of cake. The waiter knows her name and smiles at her. She sits near the window and reads a few pages of her book. The café is warm and the coffee smells good. It is the best part of her day.",
+   "words": [
+    {
+     "w": "order",
+     "tr": "يطلب"
+    },
+    {
+     "w": "waiter",
+     "tr": "نادل"
+    },
+    {
+     "w": "piece",
+     "tr": "قطعة"
+    },
+    {
+     "w": "window",
+     "tr": "نافذة"
+    },
+    {
+     "w": "smell",
+     "tr": "يشمّ"
+    },
+    {
+     "w": "best",
+     "tr": "أفضل"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does Sara always order?",
+     "a": "Coffee with milk and a piece of cake"
+    },
+    {
+     "q": "Where does she sit?",
+     "a": "Near the window"
+    }
+   ]
+  },
+  {
+   "id": "en_a1_03",
+   "title": "My Small Apartment",
+   "summary": "A happy home in the city",
+   "category": "home",
+   "body": "Ali lives in a small apartment in the city. It has one bedroom, a kitchen, and a bathroom. The living room is not big, but it has a comfortable chair and a lot of books. He waters his plants every Friday and cleans the floor. The rent is cheap because the building is old. Ali is happy there because his friends live near him.",
+   "words": [
+    {
+     "w": "apartment",
+     "tr": "شقة"
+    },
+    {
+     "w": "bedroom",
+     "tr": "غرفة نوم"
+    },
+    {
+     "w": "comfortable",
+     "tr": "مريح"
+    },
+    {
+     "w": "plants",
+     "tr": "نباتات"
+    },
+    {
+     "w": "rent",
+     "tr": "إيجار"
+    },
+    {
+     "w": "cheap",
+     "tr": "رخيص"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How many bedrooms does the apartment have?",
+     "a": "One"
+    },
+    {
+     "q": "Why is the rent cheap?",
+     "a": "Because the building is old"
+    }
+   ]
+  },
+  {
+   "id": "en_a1_04",
+   "title": "Sunday with the Family",
+   "summary": "Dinner at grandmother's house",
+   "category": "family",
+   "body": "Every Sunday, the family meets at my grandmother's house. My mother cooks rice and chicken, and my father brings fruit and juice. The children play football in the garden until it is dark. After dinner, we drink tea and talk about our week. My grandmother tells us old stories and everyone laughs. I always feel happy when we are together.",
+   "words": [
+    {
+     "w": "meet",
+     "tr": "يجتمع"
+    },
+    {
+     "w": "cook",
+     "tr": "يطبخ"
+    },
+    {
+     "w": "garden",
+     "tr": "حديقة"
+    },
+    {
+     "w": "dinner",
+     "tr": "عشاء"
+    },
+    {
+     "w": "laugh",
+     "tr": "يضحك"
+    },
+    {
+     "w": "together",
+     "tr": "معاً"
+    }
+   ],
+   "questions": [
+    {
+     "q": "When does the family meet?",
+     "a": "Every Sunday"
+    },
+    {
+     "q": "What do they do after dinner?",
+     "a": "They drink tea and talk"
+    }
+   ]
+  },
+  {
+   "id": "en_a1_05",
+   "title": "The Weather Today",
+   "summary": "A cold and rainy day",
+   "category": "weather",
+   "body": "Today the weather is cold and cloudy. The wind blows from the north, so I wear my warm jacket. In the afternoon, the rain starts, and people run to their homes or to the shops. I do not like rainy days, but I love the sound of rain at night. Tomorrow the sun will come back, and the sky will be clear again.",
+   "words": [
+    {
+     "w": "weather",
+     "tr": "طقس"
+    },
+    {
+     "w": "cloudy",
+     "tr": "غائم"
+    },
+    {
+     "w": "wind",
+     "tr": "ريح"
+    },
+    {
+     "w": "rain",
+     "tr": "مطر"
+    },
+    {
+     "w": "sound",
+     "tr": "صوت"
+    },
+    {
+     "w": "clear",
+     "tr": "صافٍ"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How is the weather today?",
+     "a": "Cold and cloudy"
+    },
+    {
+     "q": "What does he love at night?",
+     "a": "The sound of rain"
+    }
+   ]
+  },
+  {
+   "id": "en_a1_06",
+   "title": "Shopping at the Market",
+   "summary": "Fresh food for the family",
+   "category": "shopping",
+   "body": "On Friday mornings, I go to the market with my mother. We buy tomatoes, onions, and fresh bread. The sellers are friendly and they give us good prices. My mother always asks: 'How much is this?' before she pays. We carry heavy bags home, but the food is fresh and delicious. In the afternoon, we cook a big lunch for the family.",
+   "words": [
+    {
+     "w": "market",
+     "tr": "سوق"
+    },
+    {
+     "w": "fresh",
+     "tr": "طازج"
+    },
+    {
+     "w": "seller",
+     "tr": "بائع"
+    },
+    {
+     "w": "price",
+     "tr": "سعر"
+    },
+    {
+     "w": "pay",
+     "tr": "يدفع"
+    },
+    {
+     "w": "heavy",
+     "tr": "ثقيل"
+    }
+   ],
+   "questions": [
+    {
+     "q": "When does he go to the market?",
+     "a": "On Friday mornings"
+    },
+    {
+     "q": "What do they cook in the afternoon?",
+     "a": "A big lunch"
+    }
+   ]
+  }
+ ]
+}
