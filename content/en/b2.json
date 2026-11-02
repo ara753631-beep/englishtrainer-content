@@ -475,7 +475,7 @@
     "note": "verb"
    },
    {
-    "w": "succeed",
+    "w": "succeeds",
     "tr": "ينجح",
     "def": "do well and reach your goal",
     "note": "verb"
@@ -1978,12 +1978,12 @@
     "a": "Tracking every expense for a month"
    },
    {
-    "q": "How much should Omar start saving?",
+    "q": "How much does the advisor suggest saving at first?",
     "a": "Ten percent"
    },
    {
-    "q": "Where do savings go first?",
-    "a": "Out of the account on payday"
+    "q": "When do the savings leave the account?",
+    "a": "On payday"
    }
   ]
  },
@@ -2045,7 +2045,7 @@
   ],
   "questions": [
    {
-    "q": "Where does Marco work on flood risk?",
+    "q": "Where does speaker B work on flood risk?",
     "a": "Venice"
    },
    {
